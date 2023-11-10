@@ -1,7 +1,7 @@
 ## About Me
 
 ### Hi there 👋
- ![Count](https://visitor-badge.laobi.icu/badge?page_id=CherifYasmine.CherifYasmine) [![Github](https://img.shields.io/github/followers/CherifYasmine?label=Follow&style=social)](https://github.com/CherifYasmine) 
+ ![Count](https://visitor-badge.laobi.icu/badge?page_id=RaedRdhaounia.RaedRdhaounia) (https://github.com/RaedRdhaounia) 
 
 I'm Raed Rdhaounia, from Tunisia. I'm a Full-Stack web and React Native mobile enthusiast developer. I'm open to any opportunity that will allow me to start a new adventure, express my creativity, and acquire new skills.
 
