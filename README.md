@@ -4,7 +4,7 @@
 
 I'm Raed Rdhaounia, from Tunisia. I'm a Full-Stack web and React Native mobile enthusiast developer. I'm open to any opportunity that will allow me to start a new adventure, express my creativity, and acquire new skills.
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developper;Full+Stack+JavaScript+Developper;React%20Native+developer;Always%20learning%20new%20things&center=false&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developper;Scrum+Master;Full+Stack+JavaScript+Developper;React%20Native+developer;Always%20learning%20new%20things&center=false&width=500&height=50"></a>
 
 ### Social accounts
 [<img src='https://user-images.githubusercontent.com/59792971/164092560-819298ce-c9ba-4438-a368-bd1bcd6e7389.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/raed-rdhaounia/) [<img src='https://user-images.githubusercontent.com/59792971/164092047-ea3ce66e-7068-4d46-b3ea-fbac1c0cb5fd.png' alt='facebook' height='50'>](https://www.facebook.com/raed.rdh1994) 
