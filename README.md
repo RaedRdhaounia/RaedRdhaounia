@@ -34,6 +34,7 @@ I'm Raed Rdhaounia, from Tunisia. I'm a Full-Stack web and React Native mobile e
 <a href="https://github.com/RaedRdhaounia">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaedRdhaounia&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaedRdhaounia&layout=compact&langs_count=8&theme=light"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=RaedRdhaounia&theme=dark&no-frame=true&column=7"/>
 </a>
 </p>
 
