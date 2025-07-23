@@ -31,8 +31,49 @@ I'm Raed Rdhaounia, from Tunisia. I'm a Full-Stack web and React Native mobile e
 
 ### **GitHub Analytics**
 <p align="center">
-<a href="https://github.com/CherifYasmine">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaedRdhaounia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaedRdhaounia&layout=compact&langs_count=8&theme=dark&hide=Python,Jupyter%20Notebook"/>
+<a href="https://github.com/RaedRdhaounia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaedRdhaounia&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaedRdhaounia&layout=compact&langs_count=8&theme=light"/>
 </a>
 </p>
+
+### 📈 Contributions & Project Highlights
+
+Here are some stats from my work on open-source and private projects:
+
+#### 🧑‍🤝‍🧑 Open Source
+
+- Top contributor at [@AiModelsHub](https://github.com/AiModelsHub)
+- ⭐ Starred 300+ repos, opened 100+ issues
+- 📊 Most active on:
+  - [AiModelsHub/transcription](https://github.com/AiModelsHub/transcription)
+  - [RaedRdhaounia/voice-transcriber](https://github.com/RaedRdhaounia/voice-transcriber)
+
+![Contributors](https://img.shields.io/github/contributors/AiModelsHub/transcription?color=blue)
+![Stars](https://img.shields.io/github/stars/AiModelsHub/transcription?style=social)
+
+---
+
+#### 🔐 Private / Organization Projects
+
+**Organization:** [@BookMyFoodTruck]  
+Key repositories (private):
+- `bmft` – Customer-facing web app  
+- `bmft-bo` – Internal back-office dashboard  
+- `auth-api` – Authentication and session service  
+- `users-api` – User profile and management microservice  
+- `email-service` – Resend-based transactional email system  
+
+- ⭐ Starred 300+ repos, opened 900+ issues
+- 📊 Most active on:
+  - [BookMyFoodTruck/bmft](https://github.com/BookMyFoodTruck/bmft)
+  - [BookMyFoodTruck/bmft-bo](https://github.com/BookMyFoodTruck/bmft-bo)
+  - [BookMyFoodTruck/auth-api](https://github.com/BookMyFoodTruck/auth-api)
+  - [BookMyFoodTruck/users-api](https://github.com/BookMyFoodTruck/users-api)
+  - [BookMyFoodTruck/email-service](https://github.com/BookMyFoodTruck/email-service)
+
+📦 Stack: `NestJS`, `React`, `Microservices`, `Stripe`, `sendGrid`, `MongoDb`, `AWS`, `GitHub Actions`
+
+![Contributors](https://img.shields.io/badge/contributors-5-blue)
+![Stars](https://img.shields.io/badge/stars-12-brightgreen)
+---
